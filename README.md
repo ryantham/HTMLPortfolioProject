@@ -15,3 +15,5 @@ For further instructions on how to get the app setup locally, visit our wiki:
 3. [Setup](https://github.com/codeschool/project-html-portfolio/wiki/Setup)
 4. [What we'll build](https://github.com/codeschool/project-html-portfolio/wiki/What-we'll-build)
 5. [Step by step](https://github.com/codeschool/project-html-portfolio/wiki/Step-by-step)
+
+test changes
